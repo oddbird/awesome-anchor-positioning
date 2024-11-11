@@ -25,7 +25,7 @@ A curated list of awesome things related to CSS Anchor Positioning
 
 ## Demos
 
-- [Anchor Positioning Codepen demos, James Stuckey Weber](https://codepen.io/collection/GoLbGe) 
+- [Anchor Positioning CodePen demos, James Stuckey Weber](https://codepen.io/collection/GoLbGe) 
 - [Hover cards](https://codepen.io/jh3y/pen/MWLyGxo)
 
 
