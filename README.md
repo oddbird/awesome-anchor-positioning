@@ -15,7 +15,7 @@ A curated list of awesome things related to CSS Anchor Positioning
 ## Videos
 
 - [CSS Anchor Positioning in Practice - OddBird Winging it Live](https://www.oddbird.net/2024/05/30/winging-it-08/)
-  - [Notes on the episode from Geoff Graham](https://geoffgraham.me/css-anchor-positioning-in-practice-winging-it-live/)]
+  - [Notes on the episode from Geoff Graham](https://geoffgraham.me/css-anchor-positioning-in-practice-winging-it-live/)
 - [Anchor Positioning, Tab Atkins-Bittner at CSS Day 2024](https://www.youtube.com/watch?v=p18LhnYNkDQ)
 
 ## Articles
