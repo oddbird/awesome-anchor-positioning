@@ -1,6 +1,10 @@
 # Description
 
-- [ ] I have reviewed the [Contributing](./CONTRIBUTING.md) guidelines and agree
+Adding [item] to [section]. It is awesome because [reasons].
+
+## Contribution Guidelines
+
+Please review the [Contributing](./CONTRIBUTING.md) guidelines and agree
   to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 Ensure your pull request adheres to the following guidelines:
