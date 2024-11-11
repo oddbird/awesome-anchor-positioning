@@ -31,7 +31,7 @@ A curated list of awesome things related to CSS Anchor Positioning
 
 ## Baseline Status Component
 
-Embed the [Baseline Status Component](https://github.com/web-platform-dx/baseline-status) for Anchor Positioning on your blog.
+Use the [Baseline Status Component](https://github.com/web-platform-dx/baseline-status) for Anchor Positioning on your blog.
 
 ```js
 <script src="https://cdn.jsdelivr.net/npm/baseline-status@1/baseline-status.min.js" type="module"></script>
