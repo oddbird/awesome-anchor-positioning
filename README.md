@@ -25,13 +25,14 @@ A curated list of awesome things related to CSS Anchor Positioning
 
 ## Demos
 
-- [Anchor Positioning CodePen demos, James Stuckey Weber](https://codepen.io/collection/GoLbGe) 
+- [Anchor Positioning CodePen demos, James Stuckey Weber](https://codepen.io/collection/GoLbGe)
 - [Hover cards](https://codepen.io/jh3y/pen/MWLyGxo)
-
 
 ## Baseline Status Component
 
-Embed the [Baseline Status Component](https://github.com/web-platform-dx/baseline-status) for Anchor Positioning on your blog.
+Embed the
+[Baseline Status Component](https://github.com/web-platform-dx/baseline-status)
+for Anchor Positioning on your blog.
 
 ```js
 <script src="https://cdn.jsdelivr.net/npm/baseline-status@1/baseline-status.min.js" type="module"></script>
@@ -40,11 +41,19 @@ Embed the [Baseline Status Component](https://github.com/web-platform-dx/baselin
 
 ## Support OddBird's Anchor Positioning Work
 
-At [OddBird](oddbird.dev), we love contributing to the languages & tools developers rely on. We're currently working on polyfills for new Popover & Anchor Positioning functionality, as well as CSS specifications for functions, mixins, and responsive typography. 
+At [OddBird](oddbird.dev), we love contributing to the languages & tools
+developers rely on. We're currently working on polyfills for new Popover &
+Anchor Positioning functionality, as well as CSS specifications for functions,
+mixins, and responsive typography.
 
-There are 2 ways to help us keep this work sustainable and centered on your needs as a developer!
+There are 2 ways to help us keep this work sustainable and centered on your
+needs as a developer!
 
-1. [Sponsor us](https://github.com/sponsors/oddbird). We display sponsor logos and avatars on our [website](https://www.oddbird.net/polyfill/#open-source-sponsors) and offer [other fun perks](https://github.com/sponsors/oddbird).
-2. [Hire us](https://www.oddbird.net/contact/) to develop the Anchor Positioning polyfill or another OSS language/tool you rely on. 
+1. [Sponsor us](https://github.com/sponsors/oddbird). We display sponsor logos
+   and avatars on our
+   [website](https://www.oddbird.net/polyfill/#open-source-sponsors) and offer
+   [other fun perks](https://github.com/sponsors/oddbird).
+2. [Hire us](https://www.oddbird.net/contact/) to develop the Anchor Positioning
+   polyfill or another OSS language/tool you rely on.
 
 [Get OSS Work & Expense Updates](https://opencollective.com/oddbird-open-source)
