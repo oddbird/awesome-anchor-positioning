@@ -12,6 +12,11 @@ A curated list of awesome things related to CSS Anchor Positioning
 
 - [OddBird CSS Anchor Positioning Polyfill](https://github.com/oddbird/css-anchor-positioning)
 
+## Interactive Guides
+
+- [Anchoreum](https://anchoreum.com/)
+- [Anchor Positioning in Space](https://anchor-positioning-in-space.schalkneethling.com/)
+
 ## Videos
 
 - [CSS Anchor Positioning in Practice - OddBird Winging it Live](https://www.oddbird.net/2024/05/30/winging-it-08/)
@@ -28,7 +33,10 @@ A curated list of awesome things related to CSS Anchor Positioning
 
 - [Anchor Positioning CodePen demos, James Stuckey Weber](https://codepen.io/collection/GoLbGe)
 - [Hover cards](https://codepen.io/jh3y/pen/MWLyGxo)
-- [Anchoreum - A game for learning CSS anchor positioning](https://anchoreum.com/)
+
+## Helpful Tools
+
+- [Containing Block DevTools Extension](https://github.com/bramus/containing-block-devtools-extension)
 
 ## Baseline Status Component
 
